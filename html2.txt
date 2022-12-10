@@ -8,7 +8,7 @@
     <link href="C:\Users\Lenovo\Desktop\project\project2.css" rel="stylesheet">
 </head >
 <body style="background-color: black;color: white; width:1000px;">
-   <h1 style="text-align:center; size: 50px;" id="yo">start from table</h1> 
+   <h1 style="text-align:center; size: 50px;" id="yo">this is yo man</h1> 
    <p>
     this is progresiv table format so try and faill ut do not try to faill keletat and ken yehone hasab metalgnna
     yann hasaben endemnm bye lemasakat wisenku neger gin bzu fetena endemiyagatmegn ergtegna negn behonm yann fetena

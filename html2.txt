@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>start from table</title>
+    <link href="C:\Users\Lenovo\Desktop\project\project2.css" rel="stylesheet">
+</head >
+<body style="background-color: black;color: white; width:1000px;">
+   <h1 style="text-align:center; size: 50px;" id="yo">start from table</h1> 
+   <p>
+    this is progresiv table format so try and faill ut do not try to faill keletat and ken yehone hasab metalgnna
+    yann hasaben endemnm bye lemasakat wisenku neger gin bzu fetena endemiyagatmegn ergtegna negn behonm yann fetena
+    lemekuakuam zgju negn
+    <table style="width:100%;height: 10px;text-align: left; font-size: 25px;">
+        <colgroup>
+            <col span="2" style="background-color: #eceed6">
+            <col span="3" style="background-color: rgb(192, 252, 255)">
+          </colgroup>
+        <caption style="text-align: center;"><b>this is the first table</b></caption>
+        <tr>
+            <th style="text-align: center;" colspan="4">yoman.com</th>
+        </tr>
+        <tr>
+           <!-- <th style="text-align: center;width: 15px;" rowspan="4">yoman.com</th>-->
+            <th><a href="project1.html">name</a></th>
+            <th style="width:50%;">sex</th>
+            <th>age</th>
+            <th>grade</th>
+        </tr>
+        <tr>
+            <td>yihenew</td>
+            <td>mal</td>
+            <td>23</td>
+            <td>bahirdar university</td>
+        </tr>
+        <tr>
+            <td>brhanu</td>
+            <td>mal</td>
+            <td>22</td>
+            <td>wodeya university</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>  
+        </tr>
+    </table>
+   </p>
+</body>
+</html>
+<ul style="list-style-type:circle;">
+    <li>yihenew</li>
+    <li>abrbr</li>
+    <li>alemu</li>
+</ul>
+<ol>
+    <li>yihenew</li>
+    <li>abrbr</li>
+    <li>alemu</li>
+</ol>
+<dl>
+    <dt>coffe</dt>
+    <dd>it is black color </dd>
+    <dt>milk</dt>
+    <dd>it is white color </dd>
+</dl>
+<ul>
+    <li>milk</li>
+    <li>coffe</li>
+    <ul style="list-style-type:circle ;">
+        <li>black cofee</li>
+        <li>white coffe</li>
+    </ul>
+    <li>bread</li>
+</ul>
